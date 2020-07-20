@@ -7,6 +7,7 @@ import os
 import time
 import pandas as pd
 
+#Imports required
 url = 'https://www.recreation.gov/camping/aspen-hollow-group/r/campgroundDetails.do?contractCode=NRSO&parkId=71546'
 
 #The following code stores today’s .now timestamp to current time and the portion of that timestamp that is today’s date in the format that the website can read it.
